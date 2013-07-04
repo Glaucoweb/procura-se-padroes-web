@@ -9,14 +9,14 @@ Os portais bancários foram as minhas referências de estudos sobre as questões
 
 Tá bom galera, chega de enrolação e vamos direto ao assunto.
 
-##Portais inspecionados com MAIOR carência de Padrões Web:
+**Portais inspecionados com MAIOR carência de Padrões Web:**
 
-*Itaú
-*Santander
-*Bradesco
-*Banco do Brasil
++ Itaú
++ Santander
++ Bradesco
++ Banco do Brasil
 
-##Nos bancos relacionados acima a carência da acessibilidade é muito grande nas tags sem os seus atributos e outros exemplos:
+#####Nos bancos relacionados acima a carência da acessibilidade é muito grande nas tags sem os seus atributos e outros exemplos:
 
 + Menu e links sem o atributo “Title".
 + Imagens sem o atributo “Alt".
@@ -30,7 +30,7 @@ Tá bom galera, chega de enrolação e vamos direto ao assunto.
 
 *Vejamos outros dois exemplos abaixo de como é possível escrever códigos saudáveis.*
 
-##Portais inspecionados com Padrões Web:
+#####Portais inspecionados com Padrões Web:
 
 + Caixa Econômica Federal
 + HSBC
